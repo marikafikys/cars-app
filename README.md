@@ -2,7 +2,7 @@
 
 Реализация сайта аренды машин, созданная во время интенсива "Айтилогия".
 
-Практика: HTML, CSS, JavaScript, Angular.
+Практика: HTML, CSS, JavaScript, TypeScript, Angular.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
